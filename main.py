@@ -8,7 +8,7 @@ from Data.Lab7.Interfaces.menu import main7
 from Data.Lab8.Interfaces.menu import main8
 
 def show_menu():
-    print("\nCustom Python Menu:")
+    print("\nMenu:")
     print("1. Lab 1")
     print("2. Lab 2")
     print("3. Lab 3")
